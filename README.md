@@ -8,4 +8,4 @@
 
 😉 Me chamo Arthur, gosto muito de javascript, sempre busco aprender mais sobre a linguagem e novidades!
 
-📚 Constantemente estou aprendendo (Nodejs, ReactJS e React Native) 🛢💻📱
+📚 Constantemente estou aprendendo (NodeJS, ReactJS e React Native) 🛢💻📱
