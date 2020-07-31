@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Freitas-01416D?style=flat-square&logo=Linkedin&logoColor=white&url=https://www.linkedin.com/in/arthurssfreitas/)](https://www.linkedin.com/in/arthurssfreitas/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurssfreitas@gmail.com-01416D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurssfreitas@gmail.com)](mailto:arthurssfreitas@gmail.com)
+[![Website](https://img.shields.io/badge/-https://arthursfreitas.com.br-01416D?style=flat-square&link=https://arthursfreitas.com.br)](https://arthursfreitas.com.br)
 
 ## Bem vindo ao meu perfil 😀
 
