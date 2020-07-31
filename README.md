@@ -1,8 +1,7 @@
 # Arthur Freitas
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&url=https://www.linkedin.com/in/arthurssfreitas/)](https://www.linkedin.com/in/arthurssfreitas/)
-![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arthurssfreitas/)
-![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@arthursfreitas.com.br)
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurssfreitas@gmail.com)](mailto:arthurssfreitas@gmail.com)
 
 ## Bem vindo ao meu perfil 😀
 
