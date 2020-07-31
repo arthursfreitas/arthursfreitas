@@ -1,7 +1,7 @@
 # Arthur Freitas
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&url=https://www.linkedin.com/in/arthurssfreitas/)](https://www.linkedin.com/in/arthurssfreitas/)
-[![Gmail Badge](https://img.shields.io/badge/-arthurssfreitas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurssfreitas@gmail.com)](mailto:arthurssfreitas@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Freitas-01416D?style=flat-square&logo=Linkedin&logoColor=white&url=https://www.linkedin.com/in/arthurssfreitas/)](https://www.linkedin.com/in/arthurssfreitas/)
+[![Gmail Badge](https://img.shields.io/badge/-arthurssfreitas@gmail.com-01416D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurssfreitas@gmail.com)](mailto:arthurssfreitas@gmail.com)
 
 ## Bem vindo ao meu perfil 😀
 
