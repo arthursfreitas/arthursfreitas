@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-arthurssfreitas@gmail.com-01416D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurssfreitas@gmail.com)](mailto:arthurssfreitas@gmail.com)
 [![Website](https://img.shields.io/badge/-https://www.arthursfreitas.com.br-01416D?style=flat-square&link=https://www.arthursfreitas.com.br)](https://www.arthursfreitas.com.br)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arthursfreitas&show_icons=true&theme=dracula)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursfreitas&layout=compact&theme=dracula)](#)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arthursfreitas&show_icons=true&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursfreitas&layout=compact&theme=dracula)]
 
 ## Bem vindo ao meu perfil 😀
 
