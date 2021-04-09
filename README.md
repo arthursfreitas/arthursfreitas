@@ -77,7 +77,7 @@
 ##
 
   <div>
-  <a href="https:/www.arthursfreitas.com.br"><img src="https://img.shields.io/badge/website-01416d?style=for-the-badge&logo=microsoft-edge&logoColor=white" target="_blank"></a>
+  <a href="https://www.arthursfreitas.com.br"><img src="https://img.shields.io/badge/website-01416d?style=for-the-badge&logo=microsoft-edge&logoColor=white" target="_blank"></a>
   <a href="mailto:contato@arthursfreitas.com.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthurssfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
