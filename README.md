@@ -19,7 +19,14 @@
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </div>
+
+ <p align='left'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/arthursfreitas/arthursfreitas"></a>
+  </p>
+  
   <details>
+  
+ 
   
   <summary>📃 My Resume</summary>
 
