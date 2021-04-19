@@ -21,7 +21,6 @@
 </div>
 
   <p align='left'>
-  <br>
   <a href="#"></a>
   </p>
   
@@ -74,7 +73,6 @@
   📍 **<a href="http://ecomd.com.br/" target="_blank">ECOM-D</a>** - Coronel Fabriciano/MG, Brazil
 
 </details>
-  <br>
 
 ##
 
