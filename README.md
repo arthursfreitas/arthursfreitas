@@ -1,7 +1,7 @@
 ## Hi! I'm Arthur 😀
 
 <a href="https://github.com/arthursfreitas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arthursfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arthursfreitas&layout=compact&langs_count=8&theme=dracula"/>
 
 <div style="display: inline_block">
@@ -20,14 +20,12 @@
 
 </div>
 
- <p align='left'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/arthursfreitas/arthursfreitas"></a>
+  <p align='left'>
+  <br>
+  <a href="#"></a>
   </p>
   
   <details>
-  
- 
-  
   <summary>📃 My Resume</summary>
 
 ## Education
@@ -76,11 +74,12 @@
   📍 **<a href="http://ecomd.com.br/" target="_blank">ECOM-D</a>** - Coronel Fabriciano/MG, Brazil
 
 </details>
+  <br>
 
 ##
 
   <div>
-  <a href="https://www.arthursfreitas.com.br" target="_blank"><img src="https://img.shields.io/badge/website-01416d?style=for-the-badge&logo=microsoft-edge&logoColor=white" target="_blank"></a>
-  <a href="mailto:contato@arthursfreitas.com.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.arthursfreitas.com.br"><img src="https://img.shields.io/badge/website-01416d?style=for-the-badge&logo=microsoft-edge&logoColor=white" target="_blank"></a>
+  <a href="mailto:contato@arthursfreitas.com.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthurssfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
